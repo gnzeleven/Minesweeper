@@ -6,10 +6,10 @@ An OOPs refresher project that to practice the fundamentals of object-oriented p
 
 The Minesweeper is a game where thought and chance meet and the purpose is to mark all the non-landmine units while avoiding landmines.
 
-• Click on empty box to mark it, right-click to flag.
-• Each number indicates the number of landmines around the unit.
-• You win when you mark all the empty units.
-• You lose when you step on a mine.
+- Click on empty box to mark it, right-click to flag.
+- Each number indicates the number of landmines around the unit.
+- You win when you mark all the empty units.
+- You lose when you step on a mine.
 
 ## Usage
 
